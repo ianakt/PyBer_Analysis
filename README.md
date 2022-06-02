@@ -2,7 +2,7 @@
 
 Purpose:
 
-We at Pyber want to exapnd access to our riding services, to all members of our community. 
+We at Pyber want to expand access to our riding services, to all members of our community. 
 To achieve expanded access we need affordable options accross all regions, whether rural, 
 suburban, or urban. In the new analysis below we have add a line graph for the sum of
 all rides and fares for the past 4 months, to account for a possible monthly variation. 
